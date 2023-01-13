@@ -16,4 +16,5 @@ If you are an OSSAT collaborator, you'll be able to access the OBC application c
 
 **NOTE: The STMCubeIDE project includes build configurations for different builds (e.g. Unit Tests, Bootloader, Main Application etc). Therefore, before hitting the build button, you'll need to switch to the relevant build configuration which is MAIN_IMAGE_DEBUG_SECTOR_0_KS_OBC. This change can be made by navigating to the Project dropdown->Build Configurations->Set Active->MAIN_IMAGE_DEBUG_SECTOR_0_KS_OBC. See the below image:
 
+![](gui_assets/Build_config.png)
 
