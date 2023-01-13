@@ -23,6 +23,7 @@ Otherwise, head to [User Setup](#user-setup) if you want to use the software, or
 - [Get Involved](#get-involved)
 
 ## Background
+Hello there this is Kevin.
 Once a Spacecraft is in flight, operators will need to communicate with it. 
 This is normally facilitated via Ground Stations located around the globe that use a radio link to send and receive packets of data.
 
