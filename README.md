@@ -20,6 +20,7 @@ Otherwise, head to [User Setup](#user-setup) if you want to use the software, or
 - [Designing The GUI](#designing-the-gui)
 - [Building the GUI](#building-the-gui)
 - [Licenses](#licenses)
+- [Running the OSSAT OBC Application](#running-the-ossat-obc-application)
 - [Get Involved](#get-involved)
 
 ## Background
@@ -138,6 +139,10 @@ To run the files built by the last step, run "main.py" either via command line o
 
 ## Licenses
 Mercury GS includes other open source software, for licensing details, see [here](/licenses).
+
+##Running the OSSAT OBC Application
+At the point our first mission has been flying for 1 year, the OSSAT OBC Application software will become open source. In the interim time, in order to develop/build and run the OSSAT OBC Application, you'll need to become an OSSAT collaborator (see [Get Involved)[#get-involved]).
+If you are an OSSAT collaborator, that great... Click here to find out how to run the OSSAT OBC Application on this development board.
 
 ## Get Involved
 If you wish to contribute directly to the development of Mercury GS, have a look at the existing Github issues and register [here](https://www.opensourcesatellite.org/register/).
