@@ -1,12 +1,5 @@
 ![](gui_assets/OSSAT-LOGO-BLUE.png)
 # Open Source Satellite Development On Board Computer
-An Open Source Program that allows users to interact with a Spacecraft in a lab environment, pre-launch. 
-
-For those who are new to the Space Industry and it's terminology, please refer to the [Background](#Background) section.
-Also refer to the [OSSAT Glossary](/OSSAT%20Glossary.pdf) for explanations of any terminology.  
-Otherwise, head to [User Setup](#user-setup) if you want to use the software, or [Development Setup](#development-setup) if you want to develop.
-
-**NOTE: This software is useful for lab testing a spacecraft, pre-launch. Different software would be used to communicate with the spacecraft in orbit. The communications protocol is not suitable for in-orbit communication, see [The Spec](/OSSAT%20Mercury%20GS%20Specification_08.pdf) for further details.**
 
 ## Contents
 - [Background](#background)
