@@ -30,6 +30,6 @@ Perform the following procedure:
 3. Run your chosen terminal program at 115200 baud 8-N-1 configuration
 4. Once the code is built, you can either load and run (the green "go" icon) OR load, and debug run (the bug symbol) 
 
-![](STM32_screenshot.jpg)
+![](gui_assets/STM32_screenshot.jpg)
 
 
