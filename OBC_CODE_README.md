@@ -22,8 +22,9 @@ If you are an OSSAT collaborator, you'll be able to access the OBC application c
 In order to run the code, you'll need some form of UART/Serial terminal program. We tend to use [TeraTerm](https://ttssh2.osdn.jp/index.html.en). You'll also need an [ST Link SWD/JTAG device](https://www.st.com/en/development-tools/stlink-v3set.html). The board is designed with a compatible SWD/JTAG connector.
 
 Perform the following procedure:
-1. Connect the ST Link (**ADD IMAGE)
-2. Apply 5V to the micro USB connection. (setting any relevant current limit to 0.5A should provide plenty of power to overcome in-rush)
+1. Connect the ST Link to the board and 
+![](gui_assets/ST-Link.jfif)
+2. Apply 5V to the micro USB power connection to the board (a seperate connector to the ST-Link). (setting any relevant current limit to 0.5A should provide plenty of power to overcome in-rush).
 3. 
 
 
