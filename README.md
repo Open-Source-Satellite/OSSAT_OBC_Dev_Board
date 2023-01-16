@@ -15,7 +15,7 @@ If you are an OSSAT collaborator, that great... Click [here](/OBC_CODE_README.md
 ## Licenses
 All information in this repository is licensed Open Source through the Creative Commons license:
 
-
+![](gui_assets/CC-BY-SA.jpg)
 
 ## Get Involved
 If you wish to contribute directly to the development of Mercury GS, have a look at the existing Github issues and register [here](https://www.opensourcesatellite.org/register/).
