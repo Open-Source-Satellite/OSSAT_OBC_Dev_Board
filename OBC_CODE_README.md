@@ -31,13 +31,13 @@ Perform the following procedure:
 
 ![](gui_assets/TeraTerm.jpg)
 
-5. Once the code is built, you can either load and run (the green "go" icon) OR load, and debug run (the bug symbol) 
+4. Once the code is built, you can either load and run (the green "go" icon) OR load, and debug run (the bug symbol) 
 
 ![](gui_assets/STM32_screenshot.jpg)
 
 5. You should now observe some output on the Command Line Interface (CLI) through your chosen serial program.
 
-![](gui_assets/CLI_examples.jpg)
+![](gui_assets/CLI_example.jpg)
 
 6. Typing "help" into the CLI will list the available commands.
 
