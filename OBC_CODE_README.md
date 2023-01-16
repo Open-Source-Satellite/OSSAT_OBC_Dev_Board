@@ -22,9 +22,14 @@ If you are an OSSAT collaborator, you'll be able to access the OBC application c
 In order to run the code, you'll need some form of UART/Serial terminal program. We tend to use [TeraTerm](https://ttssh2.osdn.jp/index.html.en). You'll also need an [ST Link SWD/JTAG device](https://www.st.com/en/development-tools/stlink-v3set.html). The board is designed with a compatible SWD/JTAG connector.
 
 Perform the following procedure:
-1. Connect the ST Link to the board and 
+1. Connect the ST Link to the board at one end and to your PC running STM Cube on the other end.
+
 ![](gui_assets/ST-Link.jfif)
+
 2. Apply 5V to the micro USB power connection to the board (a seperate connector to the ST-Link). (setting any relevant current limit to 0.5A should provide plenty of power to overcome in-rush).
-3. 
+3. Run your chosen terminal program at 115200 baud 8-N-1 configuration
+4. Once the code is built, you can either load and run (the green "go" icon) OR load, and debug run (the bug symbol) 
+
+![](STM32_screenshot.jpg)
 
 
