@@ -14,7 +14,7 @@ This readme gives the details you'll need to run our OSSAT application on our OS
 ## Building the code
 If you are an OSSAT collaborator, you'll be able to access the OBC application code at [this](https://github.com/Open-Source-Satellite/OSS-Demo-Project-STM32H7) repository. For information about building the code, go to this repository.
 
-**NOTE: The STMCubeIDE project includes build configurations for different builds (e.g. Unit Tests, Bootloader, Main Application etc). Therefore, before hitting the build button, you'll need to switch to the relevant build configuration which is MAIN_IMAGE_DEBUG_SECTOR_0_KS_OBC. This change can be made by navigating to the Project dropdown->Build Configurations->Set Active->MAIN_IMAGE_DEBUG_SECTOR_0_KS_OBC. See the below image:
+**NOTE: The STMCubeIDE project includes build configurations for different builds (e.g. Unit Tests, Bootloader, Main Application etc). Therefore, before hitting the build button, you'll need to switch to the relevant build configuration which is MAIN_IMAGE_DEBUG_SECTOR_0_KS_OBC. This change can be made by navigating to the Project dropdown->Build Configurations->Set Active->MAIN_IMAGE_DEBUG_SECTOR_0_KS_OBC. See the below image:**
 
 ![](gui_assets/Build_config.png)
 
@@ -42,7 +42,7 @@ Perform the following procedure:
 6. Typing "help" into the CLI will list the available commands.
 
 ## Formatting the disk
-Since the OSSAT development board does not include non-volatile memory (unlike the flight version that makes use of MRAM), following any power cycle it is necessary to format the disk. The board features 8 MBytes of SRAM that can be formatted using the CLI command "fdisk OSS:/"
+Since the OSSAT development board does not include non-volatile memory (unlike the flight version that makes use of MRAM), you'll need to format the disk following any power cycle. The board features 8 MBytes of SRAM that can be formatted using the CLI command "fdisk OSS:/"
 You may notice some error messages in response to the disk formatting that relate to the closure of files that may not exist.
 
 ![](gui_assets/fdisk.jpg)
@@ -65,7 +65,7 @@ At the time of writing, the CLI code uses inefficient STDIO function calls to re
 
 ![](gui_assets/powershell.jpg)
 
-**NOTE: there are other powershell command line options available that can e.g. change baud rate, change destination path/name etc etc. Open the script to observe the full list.
+**NOTE: there are other powershell command line options available that can e.g. change baud rate, change destination path/name etc etc. Open the script to observe the full list.**
 
 ## Reading the Command and Error Log
 The OBC software includes a command and error log that records lot of the activities performed on board. To see this history, naviagate to the OSS:/CmdAndErrLogs directory and download the latest file.
