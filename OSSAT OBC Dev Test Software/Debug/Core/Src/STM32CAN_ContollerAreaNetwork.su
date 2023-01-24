@@ -1,0 +1,14 @@
+STM32CAN_ContollerAreaNetwork.c:257:15:STM32CAN_Initialise	32	static
+STM32CAN_ContollerAreaNetwork.c:349:15:STM32CAN_Transmit	56	static
+STM32CAN_ContollerAreaNetwork.c:429:15:STM32CAN_Receive	40	static
+STM32CAN_ContollerAreaNetwork.c:485:15:STM32CAN_Flush	24	static
+STM32CAN_ContollerAreaNetwork.c:526:15:STM32CAN_HandleErrors	24	static
+STM32CAN_ContollerAreaNetwork.c:574:15:STM32CAN_ISRTransmissionComplete	24	static
+STM32CAN_ContollerAreaNetwork.c:624:15:STM32CAN_ISRErrorTransition	24	static
+STM32CAN_ContollerAreaNetwork.c:693:15:STM32CAN_AddFilterRange	48	static
+STM32CAN_ContollerAreaNetwork.c:753:15:STM32CAN_AddFilterAcceptMask	48	static
+STM32CAN_ContollerAreaNetwork.c:805:15:STM32CAN_Connect	24	static
+STM32CAN_ContollerAreaNetwork.c:837:15:STM32CAN_RegisterCallbacks	32	static
+STM32CAN_ContollerAreaNetwork.c:899:15:STM32CAN_CancelTransmission	24	static
+STM32CAN_ContollerAreaNetwork.c:927:15:STM32CAN_Disconnect	24	static
+STM32CAN_ContollerAreaNetwork.c:949:6:EH_Exception	24	static
