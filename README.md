@@ -44,7 +44,7 @@ Programme.
 
 ## Running the OSSAT OBC Application
 Within one year of the first launch of the OSSAT, the OSSAT OBC Application software will become open source. In the interim time, in order to develop/build and run the OSSAT OBC Application, you'll need to become an OSSAT collaborator (see [Get Involved](#get-involved])).
-If you are an OSSAT collaborator, that great... Click [here](/OBC_CODE_README.md) to find out how to run the OSSAT OBC Application on this development board.
+If you are an OSSAT collaborator, that's great... Click [here](/OBC_CODE_README.md) to find out how to run the OSSAT OBC Application on this development board.
 
 ## Licenses
 All information in this repository is licensed Open Source through the Creative Commons license:
