@@ -10,7 +10,35 @@
 - [Running the OSSAT OBC Application](#running-the-ossat-obc-application)
 
 ## Background
-Hello
+The key drivers for the Open Source Satellite (OSSAT) are to improve the affordability, accessibility and
+sustainability of space; to address the market need for an improvement in the
+price:performance point of small satellites; to stimulate the next wave of disruption
+in the small satellite industry; and to enable the development of new missions,
+applications and services.
+![](gui_assets/OSSAT_History.jpg)
+Small satellites initiated the initial market
+disruption by leveraging COTS parts and
+processes, but it appears that the unit cost
+per spacecraft cannot be reduced much
+further.
+Cubesats have been critical in recent years for
+lowering the barriers to entry, however they
+appear to be unable to provide sufficient
+robustness and mission enabling capability to
+support more demanding missions.
+The goal is to develop OSSAT to fill this gap and deliver microsatellite-class
+performance for a cubesat price, even when manufacturing in low volumes. The
+aim is to increase the level of integration and robustness over subsequent missions
+in order to develop a single platform that is affordable for use in vLEO (very low
+Earth orbit) (low Earth orbit), GEO (Geosynchronous Equatorial Orbit), lunar and
+interplanetary missions.
+OSSAT will be a performant and flexible
+system that KISPE Space will be able to use to implement some of its own
+commercial missions; however, simply using it for KISPE Space missions will not
+result in the desired increase in accessibility to the design, nor stimulate the
+market.
+Making the OSSAT design open source will maximise access and achieve the wider aims of The
+Programme.
 
 ## Running the OSSAT OBC Application
 **VANDERSON comment text** Replace "At the point our first mission has been flying for 1 year, the OSSAT OBC Application software will become open source." with "Within one year of the first launch of the OSSAT, the OSSAT OBC Application software will become open source."
