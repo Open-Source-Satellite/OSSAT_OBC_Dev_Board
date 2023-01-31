@@ -16,7 +16,7 @@ price:performance point of small satellites; to stimulate the next wave of disru
 in the small satellite industry; and to enable the development of new missions,
 applications and services.
 <p style="text-align: center;">
-![](gui_assets/OSSAT_History.jpg)
+<img src="https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/gui_assets/OSSAT_History.jpg?raw=true" alt="OSSAT History"/>
 </p>
 Small satellites initiated the initial market
 disruption by leveraging COTS parts and
@@ -41,6 +41,7 @@ result in the desired increase in accessibility to the design, nor stimulate the
 market.  
 Making the OSSAT design open source will maximise access and achieve the wider aims of The
 Programme.  
+
 ## Running the OSSAT OBC Application
 Within one year of the first launch of the OSSAT, the OSSAT OBC Application software will become open source. In the interim time, in order to develop/build and run the OSSAT OBC Application, you'll need to become an OSSAT collaborator (see [Get Involved](#get-involved])).
 If you are an OSSAT collaborator, that great... Click [here](/OBC_CODE_README.md) to find out how to run the OSSAT OBC Application on this development board.
