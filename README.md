@@ -16,7 +16,7 @@ price:performance point of small satellites; to stimulate the next wave of disru
 in the small satellite industry; and to enable the development of new missions,
 applications and services.
 <p style="text-align: center;">
-<img src="https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/gui_assets/OSSAT_History.jpg?raw=true" alt="OSSAT History"/>
+<img src="https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/gui_assets/OSSAT_History.jpg?raw=true" alt="OSSAT History"/ width="300">
 </p>
 Small satellites initiated the initial market
 disruption by leveraging COTS parts and
