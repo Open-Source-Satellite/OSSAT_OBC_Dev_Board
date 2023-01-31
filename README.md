@@ -2,7 +2,7 @@
 # Open Source Satellite Development On Board Computer
 
 ## Contents
-- [PAUL Background](#background)
+- [Background](#background)
 - [KEV Intro to OBC Development Board]
 - [KEV OBC Development Board Manual]
 - [KEV Manufacturing Data]
@@ -15,7 +15,7 @@ sustainability of space; to address the market need for an improvement in the
 price:performance point of small satellites; to stimulate the next wave of disruption
 in the small satellite industry; and to enable the development of new missions,
 applications and services.
-![](gui_assets/OSSAT_History.jpg)
+<img src="[https://image-url.type](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/gui_assets/OSSAT_History.jpg)" width="200" height="200"/>
 Small satellites initiated the initial market
 disruption by leveraging COTS parts and
 processes, but it appears that the unit cost
