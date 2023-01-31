@@ -15,7 +15,7 @@ sustainability of space; to address the market need for an improvement in the
 price:performance point of small satellites; to stimulate the next wave of disruption
 in the small satellite industry; and to enable the development of new missions,
 applications and services.  
-<img src="[https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/gui_assets/OSSAT_History.jpg]" width="200" height="200"/>  
+![](gui_assets/OSSAT_History.jpg)  
 Small satellites initiated the initial market
 disruption by leveraging COTS parts and
 processes, but it appears that the unit cost
