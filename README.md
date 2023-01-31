@@ -14,8 +14,10 @@ The key drivers for the Open Source Satellite (OSSAT) are to improve the afforda
 sustainability of space; to address the market need for an improvement in the
 price:performance point of small satellites; to stimulate the next wave of disruption
 in the small satellite industry; and to enable the development of new missions,
-applications and services.  
-![](gui_assets/OSSAT_History.jpg)  
+applications and services.
+<p style="text-align: center;">
+![](gui_assets/OSSAT_History.jpg)
+</p>
 Small satellites initiated the initial market
 disruption by leveraging COTS parts and
 processes, but it appears that the unit cost
@@ -40,8 +42,7 @@ market.
 Making the OSSAT design open source will maximise access and achieve the wider aims of The
 Programme.  
 ## Running the OSSAT OBC Application
-**VANDERSON comment text** Replace "At the point our first mission has been flying for 1 year, the OSSAT OBC Application software will become open source." with "Within one year of the first launch of the OSSAT, the OSSAT OBC Application software will become open source."
-At the point our first mission has been flying for 1 year, the OSSAT OBC Application software will become open source. In the interim time, in order to develop/build and run the OSSAT OBC Application, you'll need to become an OSSAT collaborator (see [Get Involved](#get-involved])).
+Within one year of the first launch of the OSSAT, the OSSAT OBC Application software will become open source. In the interim time, in order to develop/build and run the OSSAT OBC Application, you'll need to become an OSSAT collaborator (see [Get Involved](#get-involved])).
 If you are an OSSAT collaborator, that great... Click [here](/OBC_CODE_README.md) to find out how to run the OSSAT OBC Application on this development board.
 
 ## Licenses
