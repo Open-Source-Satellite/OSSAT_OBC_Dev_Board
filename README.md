@@ -62,14 +62,10 @@ The board includes an STLink programmer/debugger interface to facilitate firmwar
 The design shares several attributes with a sister board that is being developed for a space application.
 Figure 1 shows a view of the board.
 
-![image](https://user-images.githubusercontent.com/111048316/216616583-057bedc1-52d7-4567-b377-4d88b519655f.png)
-
+![image](https://user-images.githubusercontent.com/111048316/216616583-057bedc1-52d7-4567-b377-4d88b519655f.png)   
 Figure 1  View of the Board
-
-
-
-
-
+<br/>
+<br/>
 ### Features
 - STM32 Microcontroller (STM32H753ZIT)
 - SRAM 4Mx16bit (8Mx8bit) CMOS Static RAM
@@ -89,18 +85,16 @@ Figure 1  View of the Board
 #### Board Overview
 Figure 2 below shows a view of the fully assembled board. There are no components on the reverse side.
 
-![image](https://user-images.githubusercontent.com/111048316/216617689-4c41ee5b-1571-40e6-a27d-4a0dc18d36d7.png)
-
+![image](https://user-images.githubusercontent.com/111048316/216617689-4c41ee5b-1571-40e6-a27d-4a0dc18d36d7.png)   
 Figure 2  View of Assembled Board
-
-
+<br/>   
+<br/> 
 The block diagram for the Schematic is shown in Figure 3
 
-![image](https://user-images.githubusercontent.com/111048316/216617843-7995490b-6f9a-41d4-85e5-43f7f01a4bd4.png)
-
+![image](https://user-images.githubusercontent.com/111048316/216617843-7995490b-6f9a-41d4-85e5-43f7f01a4bd4.png)   
 Figure 3  Schematic Block Diagram
-
-
+<br/>   
+<br/> 
 #### STM32 Microcontroller (STM32H753ZIT)
 The STM32 MCU includes a broad set of internal features, some of which are highlighted below:
 - 32-bit Arm®-M7 core
