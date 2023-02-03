@@ -66,19 +66,19 @@ Figure 1 shows a view of the board.
 Figure 1  View of the Board
 
 ### Features
-•	STM32 Microcontroller (STM32H753ZIT)
-•	SRAM 4Mx16bit (8Mx8bit) CMOS Static RAM
-•	STLink Programming and Debug interface (with UART)
-•	2x CAN Bus channels (with local 120R termination), with D-Sub (9 way sockets)
-•	2x UART interface
-•	8x Thermistor interface (10K Negative Temperature Coefficient)
-•	31x General Purpose I/O lines
-•	Local 3V3 regulator, operating from USB supply, via Micro-USB connector
-•	MCU Reset Button
-•	2x push-buttons for test use
-•	3x status LEDs for test use
-•	2x power status LEDs
-•	Real-time clock
+- STM32 Microcontroller (STM32H753ZIT)
+- SRAM 4Mx16bit (8Mx8bit) CMOS Static RAM
+- STLink Programming and Debug interface (with UART)
+- 2x CAN Bus channels (with local 120R termination), with D-Sub (9 way sockets)
+- 2x UART interface
+- 8x Thermistor interface (10K Negative Temperature Coefficient)
+- 31x General Purpose I/O lines
+- Local 3V3 regulator, operating from USB supply, via Micro-USB connector
+- MCU Reset Button
+- 2x push-buttons for test use
+- 3x status LEDs for test use
+- 2x power status LEDs
+- Real-time clock
 
 ### Technical Details
 #### Board Overview
@@ -94,35 +94,37 @@ Figure 4  Schematic Block Diagram
 
 #### STM32 Microcontroller (STM32H753ZIT)
 The STM32 MCU includes a broad set of internal features, some of which are highlighted below:
-•	32-bit Arm®-M7 core
-•	2Mbyte onboard Flash
-•	1Mbyte RAM
-•	Flexible Memory controller
-•	Power Management
-•	Watchdog
-•	Multiple communication peripherals, including CAN, I2C, SPI, UART
-•	ADC
-•	Timers and RTC
-•	Large number of I/O ports
-•	STLink / JTAG compatibility
+- 32-bit Arm®-M7 core
+- 2Mbyte onboard Flash
+- 1Mbyte RAM
+- Flexible Memory controller
+- Power Management
+- Watchdog
+- Multiple communication peripherals, including CAN, I2C, SPI, UART
+- ADC
+- Timers and RTC
+- Large number of I/O ports
+- STLink / JTAG compatibility
 
 Full details of the MCU are available from the manufacturers data sheet and reference manual, available from the STM web site. Refer to:
-•	DS12117: STM32H753xl Datasheet (32-bit Arm® Cortex®-M7 480MHz MCUs, 2MB Flash, 1MB RAM, 46 com. and analogue interfaces, crypto)
-•	RM0433: Reference manual, STM32H742, STM32H743/753 and STM32H750 Value line advanced Arm®-based 32-bit MCUs
+- DS12117: STM32H753xl Datasheet (32-bit Arm® Cortex®-M7 480MHz MCUs, 2MB Flash, 1MB RAM, 46 com. and analogue interfaces, crypto)
+- RM0433: Reference manual, STM32H742, STM32H743/753 and STM32H750 Value line advanced Arm®-based 32-bit MCUs
 
 ### Manual
 Document KS-DOC-01543 is the manual for the board. It covers;
-•	Board Features
-•	Technical Details
-•	Build and Test
-•	Using the board
+- Board Features
+- Technical Details
+- Build and Test
+- Using the board
 
 ### Related Documents
 A list of documents related to this board is provided in the Manual and is listed here. This includes diagrams, design source files, manufacturing and & test information and test firmware.
 KS-SCH-01466 (.PDF) OSSAT OBC Development Board Schematic (Schematic diagram)
+
 KS-SCH-01466 (.sch) OSSAT OBC Development Board Schematic (Fusion 360 schematic source file, in ‘Eagle’ format)
-KS-SCH-01466 (.lbr) OSSAT OBC Dev board library (Fusion 360 Library file in ‘Eagle’ format. Contains library definitions for parts used in the design)
-KS-SCH-01466 (.xlsx) OSSAT OBC Dev Board BOM with manufacturer data (Bill of materials for the board assembly)
+
+- KS-SCH-01466 (.lbr) OSSAT OBC Dev board library (Fusion 360 Library file in ‘Eagle’ format. Contains library definitions for parts used in the design)
+- KS-SCH-01466 (.xlsx) OSSAT OBC Dev Board BOM with manufacturer data (Bill of materials for the board assembly)
 KS-BRD-01467 (.brd) OSSAT OBC Development Board PCB (Fusion 360 PCB source file in ‘Eagle’ format)
 KS-BRD-01467 (.zip) OSSAT OBC Dev Board PCB Manufacturing files	(Gerber file set and PnP file)
 KS-BRD-01467 (.docx) OSSAT OBC Dev Board Layer Stack-up (Defines the layer stack and pcb materials / thicknesses for the board)
