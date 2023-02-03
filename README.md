@@ -66,6 +66,7 @@ Figure 1 shows a view of the board.
 
 Figure 1  View of the Board
 
+
 ### Features
 - STM32 Microcontroller (STM32H753ZIT)
 - SRAM 4Mx16bit (8Mx8bit) CMOS Static RAM
@@ -89,11 +90,13 @@ Figure 2 below shows a view of the fully assembled board. There are no component
 
 Figure 2  View of Assembled Board
 
+
 The block diagram for the Schematic is shown in Figure 3
 
 ![image](https://user-images.githubusercontent.com/111048316/216617843-7995490b-6f9a-41d4-85e5-43f7f01a4bd4.png)
 
 Figure 3  Schematic Block Diagram
+
 
 #### STM32 Microcontroller (STM32H753ZIT)
 The STM32 MCU includes a broad set of internal features, some of which are highlighted below:
