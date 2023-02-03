@@ -67,6 +67,9 @@ Figure 1 shows a view of the board.
 Figure 1  View of the Board
 
 
+
+
+
 ### Features
 - STM32 Microcontroller (STM32H753ZIT)
 - SRAM 4Mx16bit (8Mx8bit) CMOS Static RAM
