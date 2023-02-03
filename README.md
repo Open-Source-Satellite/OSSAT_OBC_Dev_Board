@@ -63,6 +63,7 @@ The design shares several attributes with a sister board that is being developed
 Figure 1 shows a view of the board.
 
 ![image](https://user-images.githubusercontent.com/111048316/216616583-057bedc1-52d7-4567-b377-4d88b519655f.png)
+
 Figure 1  View of the Board
 
 ### Features
@@ -82,15 +83,17 @@ Figure 1  View of the Board
 
 ### Technical Details
 #### Board Overview
-Figure 3 below shows a view of the fully assembled board. There are no components on the reverse side.
+Figure 2 below shows a view of the fully assembled board. There are no components on the reverse side.
 
 ![image](https://user-images.githubusercontent.com/111048316/216617689-4c41ee5b-1571-40e6-a27d-4a0dc18d36d7.png)
-Figure 3  View of Assembled Board
 
-The block diagram for the Schematic is shown in Figure 4
+Figure 2  View of Assembled Board
+
+The block diagram for the Schematic is shown in Figure 3
 
 ![image](https://user-images.githubusercontent.com/111048316/216617843-7995490b-6f9a-41d4-85e5-43f7f01a4bd4.png)
-Figure 4  Schematic Block Diagram
+
+Figure 3  Schematic Block Diagram
 
 #### STM32 Microcontroller (STM32H753ZIT)
 The STM32 MCU includes a broad set of internal features, some of which are highlighted below:
