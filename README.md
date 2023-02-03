@@ -3,10 +3,8 @@
 
 ## Contents
 - [Background](#background)
-- [KEV Intro to OBC Development Board]
-- [KEV OBC Development Board Manual]
-- [KEV Manufacturing Data]
-- [KEV Testing the OBC Develeopment Board]
+- [Introduction to the OBC Development Board](#Introduction to the OBC Development Board)
+- [OBC Development Board Manual](#OBC Development Board Manual)
 - [Running the OSSAT OBC Application](#running-the-ossat-obc-application)
 
 ## Background
@@ -54,7 +52,7 @@ All information in this repository is licensed Open Source through the Creative 
 ## Get Involved
 If you wish to contribute directly to the development of Mercury GS, have a look at the existing Github issues and register [here](https://www.opensourcesatellite.org/register/).
 
-## Intro to OBC Development Board
+## Introduction to the OBC Development Board
 ### Overview
 The OSSAT OBC Development board provides a convenient hardware platform that collaborators can use, to develop satellite firmware.
 The board is based upon the STM32 microcontroller and includes various interfaces for connection to other satellite sub-systems. 
@@ -113,13 +111,6 @@ Full details of the MCU are available from the manufacturers data sheet and refe
 - DS12117: STM32H753xl Datasheet (32-bit Arm® Cortex®-M7 480MHz MCUs, 2MB Flash, 1MB RAM, 46 com. and analogue interfaces, crypto)
 - RM0433: Reference manual, STM32H742, STM32H743/753 and STM32H750 Value line advanced Arm®-based 32-bit MCUs
 
-### Manual
-Document KS-DOC-01543 is the manual for the board. It covers;
-- Board Features
-- Technical Details
-- Build and Test
-- Using the board
-
 ### Related Documents
 A list of documents related to this board is provided in the Manual and is listed here. This includes diagrams, design source files, manufacturing and & test information and test firmware.
 - KS-SCH-01466 (.PDF) OSSAT OBC Development Board Schematic (Schematic diagram)
@@ -132,3 +123,11 @@ A list of documents related to this board is provided in the Manual and is liste
 - KS-DOC-01526 (.docx) OSSAT OBC Dev Board Verification Procedure	(Board Verification Test procedure, used to confirm board function after build)
 - KS-DOC-01529 (.docx) OSSAT OBC Dev Board Build Document (Build process control document)
 - KS-SOF-01541 (software) Software to support h/w test of the OSSAT OBC dev board	(Test Software)
+
+## OBC Development Board Manual
+Document KS-DOC-01543 is the manual for the board. It covers;
+- Board Features
+- Technical Details
+- Building the board
+- Testing the board
+- Using the board
