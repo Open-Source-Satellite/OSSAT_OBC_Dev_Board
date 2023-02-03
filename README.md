@@ -119,15 +119,13 @@ Document KS-DOC-01543 is the manual for the board. It covers;
 
 ### Related Documents
 A list of documents related to this board is provided in the Manual and is listed here. This includes diagrams, design source files, manufacturing and & test information and test firmware.
-KS-SCH-01466 (.PDF) OSSAT OBC Development Board Schematic (Schematic diagram)
-
-KS-SCH-01466 (.sch) OSSAT OBC Development Board Schematic (Fusion 360 schematic source file, in ‘Eagle’ format)
-
+- KS-SCH-01466 (.PDF) OSSAT OBC Development Board Schematic (Schematic diagram)
+- KS-SCH-01466 (.sch) OSSAT OBC Development Board Schematic (Fusion 360 schematic source file, in ‘Eagle’ format)
 - KS-SCH-01466 (.lbr) OSSAT OBC Dev board library (Fusion 360 Library file in ‘Eagle’ format. Contains library definitions for parts used in the design)
 - KS-SCH-01466 (.xlsx) OSSAT OBC Dev Board BOM with manufacturer data (Bill of materials for the board assembly)
-KS-BRD-01467 (.brd) OSSAT OBC Development Board PCB (Fusion 360 PCB source file in ‘Eagle’ format)
-KS-BRD-01467 (.zip) OSSAT OBC Dev Board PCB Manufacturing files	(Gerber file set and PnP file)
-KS-BRD-01467 (.docx) OSSAT OBC Dev Board Layer Stack-up (Defines the layer stack and pcb materials / thicknesses for the board)
-KS-DOC-01526 (.docx) OSSAT OBC Dev Board Verification Procedure	(Board Verification Test procedure, used to confirm board function after build)
-KS-DOC-01529 (.docx) OSSAT OBC Dev Board Build Document (Build process control document)
-KS-SOF-01541 (software) Software to support h/w test of the OSSAT OBC dev board	(Test Software)
+- KS-BRD-01467 (.brd) OSSAT OBC Development Board PCB (Fusion 360 PCB source file in ‘Eagle’ format)
+- KS-BRD-01467 (.zip) OSSAT OBC Dev Board PCB Manufacturing files	(Gerber file set and PnP file)
+- KS-BRD-01467 (.docx) OSSAT OBC Dev Board Layer Stack-up (Defines the layer stack and pcb materials / thicknesses for the board)
+- KS-DOC-01526 (.docx) OSSAT OBC Dev Board Verification Procedure	(Board Verification Test procedure, used to confirm board function after build)
+- KS-DOC-01529 (.docx) OSSAT OBC Dev Board Build Document (Build process control document)
+- KS-SOF-01541 (software) Software to support h/w test of the OSSAT OBC dev board	(Test Software)
