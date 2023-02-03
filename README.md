@@ -3,10 +3,9 @@
 
 ## Contents
 - [Background](#background)
-
+- [Running the OSSAT OBC Application](#running-the-ossat-obc-application)
 - [Introduction to the OBC Development Board](#Introduction-to-the-OBC-Development-Board)
 - [OBC Development Board Manual](#OBC-Development-Board-Manual)
-- [Running the OSSAT OBC Application](#running-the-ossat-obc-application)
 
 ## Test Heading
 Test line
