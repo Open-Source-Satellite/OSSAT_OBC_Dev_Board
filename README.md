@@ -7,8 +7,6 @@
 - [Introduction to the OBC Development Board](#Introduction-to-the-OBC-Development-Board)
 - [OBC Development Board Manual](#OBC-Development-Board-Manual)
 
-## Test Heading
-Test line
 
 ## Background
 The key drivers for the Open Source Satellite (OSSAT) are to improve the affordability, accessibility and
@@ -42,18 +40,6 @@ result in the desired increase in accessibility to the design, nor stimulate the
 market.  
 Making the OSSAT design open source will maximise access and achieve the wider aims of The
 Programme.  
-
-## Running the OSSAT OBC Application
-Within one year of the first launch of the OSSAT, the OSSAT OBC Application software will become open source. In the interim time, in order to develop/build and run the OSSAT OBC Application, you'll need to become an OSSAT collaborator (see [Get Involved](#get-involved])).
-If you are an OSSAT collaborator, that's great... Click [here](/OBC_CODE_README.md) to find out how to run the OSSAT OBC Application on this development board.
-
-## Licenses
-All information in this repository is licensed Open Source through the Creative Commons license:
-
-![](gui_assets/CC-BY-SA.jpg)
-
-## Get Involved
-If you wish to contribute directly to the development of Mercury GS, have a look at the existing Github issues and register [here](https://www.opensourcesatellite.org/register/).
 
 ## Introduction to the OBC Development Board
 ### Overview
@@ -134,3 +120,15 @@ Document KS-DOC-01543 is the manual for the board. It covers;
 - Building the board
 - Testing the board
 - Using the board
+
+## Running the OSSAT OBC Application
+Within one year of the first launch of the OSSAT, the OSSAT OBC Application software will become open source. In the interim time, in order to develop/build and run the OSSAT OBC Application, you'll need to become an OSSAT collaborator (see [Get Involved](#get-involved])).
+If you are an OSSAT collaborator, that's great... Click [here](/OBC_CODE_README.md) to find out how to run the OSSAT OBC Application on this development board.
+
+## Licenses
+All information in this repository is licensed Open Source through the Creative Commons license:
+
+![](gui_assets/CC-BY-SA.jpg)
+
+## Get Involved
+If you wish to contribute directly to the development of Mercury GS, have a look at the existing Github issues and register [here](https://www.opensourcesatellite.org/register/).
