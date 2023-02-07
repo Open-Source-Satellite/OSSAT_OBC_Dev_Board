@@ -3,10 +3,9 @@
 
 ## Contents
 - [Background](#background)
-- [Running the OSSAT OBC Application](#running-the-ossat-obc-application)
 - [Introduction to the OBC Development Board](#Introduction-to-the-OBC-Development-Board)
 - [OBC Development Board Manual](#OBC-Development-Board-Manual)
-
+- [Running the OSSAT OBC Application](#running-the-ossat-obc-application)
 
 ## Background
 The key drivers for the Open Source Satellite (OSSAT) are to improve the affordability, accessibility and
@@ -131,4 +130,4 @@ All information in this repository is licensed Open Source through the Creative 
 ![](gui_assets/CC-BY-SA.jpg)
 
 ## Get Involved
-If you wish to contribute directly to the development of Mercury GS, have a look at the existing Github issues and register [here](https://www.opensourcesatellite.org/register/).
+If you wish to contribute directly to the development of OSSAT, have a look at the existing Github issues and register [here](https://www.opensourcesatellite.org/register/).
