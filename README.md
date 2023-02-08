@@ -101,16 +101,16 @@ Full details of the MCU are available from the manufacturers data sheet and refe
 
 ### Related Documents
 A list of documents related to this board is provided in the Manual and is listed here. This includes diagrams, design source files, manufacturing and & test information and test firmware.
-- [KS-SCH-01466 (.PDF)]() OSSAT OBC Development Board Schematic (Schematic diagram)
-- [KS-SCH-01466 (.sch)]() OSSAT OBC Development Board Schematic (Fusion 360 schematic source file, in ‘Eagle’ format)
-- [KS-SCH-01466 (.lbr)]() OSSAT OBC Dev board library (Fusion 360 Library file in ‘Eagle’ format, for parts used in the design)
-- [KS-SCH-01466 (.xlsx)]() OSSAT OBC Dev Board BOM with manufacturer data (Bill of materials for the board assembly)
-- [KS-BRD-01467 (.brd)]() OSSAT OBC Development Board PCB (Fusion 360 PCB source file in ‘Eagle’ format)
-- [KS-BRD-01467 (.zip)]() OSSAT OBC Dev Board PCB Manufacturing files	(Gerber file set and PnP file)
+- [KS-SCH-01466 (.PDF)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/KS-SCH-01466%20V01%20OSSAT%20OBC%20Dev%20Board%20Schematic.pdf) OSSAT OBC Development Board Schematic (Schematic diagram)
+- [KS-SCH-01466 (.sch)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/CAD%20Source%20Files/KS-SCH-01466-01%20OSSAT%20OBC%20Dev%20Board%20Schematic.sch) OSSAT OBC Development Board Schematic (Fusion 360 schematic source file, in ‘Eagle’ format)
+- [KS-SCH-01466 (.lbr)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/CAD%20Source%20Files/KS-SCH-01466-01%20OSSAT_OBC_Dev_Board_Library.lbr) OSSAT OBC Dev board library (Fusion 360 Library file in ‘Eagle’ format, for parts used in the design)
+- [KS-SCH-01466 (.xlsx)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/KS-SCH-01466-01%20OSSAT%20OBC%20Dev%20Brd%20BOM%20with%20Mfr%20Data.xlsx) OSSAT OBC Dev Board BOM with manufacturer data (Bill of materials for the board assembly)
+- [KS-BRD-01467 (.brd)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/CAD%20Source%20Files/KS-SCH-01467%20OSSAT%20OBC%20Dev%20Board%20PCB.brd) OSSAT OBC Development Board PCB (Fusion 360 PCB source file in ‘Eagle’ format)
+- [KS-BRD-01467 (.zip)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/Gerber%20Files/KS-BRD-01467-02%20OSSAT%20Sw%20Dev%20Board%20PCB_2022-12-08.zip) OSSAT OBC Dev Board PCB Manufacturing files	(Gerber file set and PnP file)
 - [KS-BRD-01467 (.docx)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/KS-BRD-01467-02%20OSSAT%20OBC%20Dev%20board%20PCB%20Layer%20Stackup.docx) OSSAT OBC Dev Board Layer Stack-up (Defines the layer stack and pcb materials / thicknesses for the board)
 - [KS-DOC-01526 (.docx)]() OSSAT OBC Dev Board Verification Procedure	(Used to confirm board function after build)
-- [KS-DOC-01529 (.docx)]() OSSAT OBC Dev Board Build Document (Build process control document)
-- [KS-SOF-01541 (software)]() Software to support h/w test of the OSSAT OBC dev board	(Test Software)
+- [KS-DOC-01529 (.docx)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/KS-DOC-01529-01%20OSSAT%20OBC%20Dev%20Board%20Build%20Document.docx) OSSAT OBC Dev Board Build Document (Build process control document)
+- [KS-SOF-01541 (software)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/releases/tag/KS-SOF-01541-01) Software to support h/w test of the OSSAT OBC dev board	(Test Software)
 
 ## OBC Development Board Manual
 Document KS-DOC-01543 is the manual for the board. It covers;
