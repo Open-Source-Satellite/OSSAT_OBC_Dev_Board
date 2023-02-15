@@ -101,7 +101,7 @@ Full details of the MCU are available from the manufacturers data sheet and refe
 
 ### Related Documents
 A list of documents related to this board is provided in the Manual and is listed here. This includes diagrams, design source files, manufacturing and & test information and test firmware.
-- [KS-SCH-01466 (.PDF)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/KS-SCH-01466%20V01%20OSSAT%20OBC%20Dev%20Board%20Schematic.pdf) OSSAT OBC Development Board Schematic (Schematic diagram)
+- [KS-SCH-01466 (.PDF)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/KS-SCH-01466-01%20OSSAT%20OBC%20Dev%20Board%20Schematic.pdf) OSSAT OBC Development Board Schematic (Schematic diagram)
 - [KS-SCH-01466 (.sch)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/CAD%20Source%20Files/KS-SCH-01466-01%20OSSAT%20OBC%20Dev%20Board%20Schematic.sch) OSSAT OBC Development Board Schematic (Fusion 360 schematic source file, in ‘Eagle’ format)
 - [KS-SCH-01466 (.lbr)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/CAD%20Source%20Files/KS-SCH-01466-01%20OSSAT_OBC_Dev_Board_Library.lbr) OSSAT OBC Dev board library (Fusion 360 Library file in ‘Eagle’ format, for parts used in the design)
 - [KS-SCH-01466 (.xlsx)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/OSSAT%20OBC%20Dev%20Board%20Drawings/KS-SCH-01466-01%20OSSAT%20OBC%20Dev%20Brd%20BOM%20with%20Mfr%20Data.xlsx) OSSAT OBC Dev Board BOM with manufacturer data (Bill of materials for the board assembly)
