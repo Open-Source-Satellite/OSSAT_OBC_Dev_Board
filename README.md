@@ -113,7 +113,7 @@ A list of documents related to this board is provided in the Manual and is liste
 - [KS-SOF-01541 (software)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/releases/tag/KS-SOF-01541-01) Software to support h/w test of the OSSAT OBC dev board	(Test Software)
 
 ## OBC Development Board Manual
-Document KS-DOC-01543 is the manual for the board. It covers:
+Document [KS-DOC-01543 is the manual](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/blob/main/KS-DOC%2001543-01%20OSSAT%20OBC%20Dev%20Board%20Manual.docx) for the board. It covers:
 - Board features
 - Technical details
 - Building the board
