@@ -121,7 +121,7 @@ Document [KS-DOC-01543 is the manual](https://github.com/Open-Source-Satellite/O
 - Using the board
 
 ## Running the OSSAT OBC Application
-Within one year of the first launch of the OSSAT, the OSSAT OBC Application software will become open source. In the interim time, in order to develop/build and run the OSSAT OBC Application, you'll need to become an OSSAT collaborator (see [Get Involved](#get-involved])).
+Within one year of the first launch of the OSSAT, the OSSAT OBC Application software will become open source. In the interim time, in order to develop/build and run the OSSAT OBC Application, you'll need to become an OSSAT collaborator ([Click Here](https://www.opensourcesatellite.org/register/)).
 If you are an OSSAT collaborator, that's great... Click [here](/OBC_CODE_README.md) to find out how to run the OSSAT OBC Application on this development board.
 
 ## Licenses
