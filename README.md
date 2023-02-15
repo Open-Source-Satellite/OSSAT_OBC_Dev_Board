@@ -21,23 +21,23 @@ disruption by leveraging COTS parts and
 processes, but it appears that the unit cost
 per spacecraft cannot be reduced much
 further.  
-Cubesats have been critical in recent years for
+CubeSats have been critical in recent years for
 lowering the barriers to entry, however they
 appear to be unable to provide sufficient
 robustness and mission enabling capability to
 support more demanding missions.  
 The goal is to develop OSSAT to fill this gap and deliver microsatellite-class
-performance for a cubesat price, even when manufacturing in low volumes. The
+performance for a CubeSat price, even when manufacturing in low volumes. The
 aim is to increase the level of integration and robustness over subsequent missions
-in order to develop a single platform that is affordable for use in vLEO (very low
-Earth orbit) (low Earth orbit), GEO (Geosynchronous Equatorial Orbit), lunar and
+in order to develop a single platform that is affordable for use in vLEO (very Low
+Earth Orbit), LEO (Low Earth Orbit), GEO (Geosynchronous Equatorial Orbit), Lunar and
 interplanetary missions.  
 OSSAT will be a performant and flexible
 system that KISPE Space will be able to use to implement some of its own
 commercial missions; however, simply using it for KISPE Space missions will not
 result in the desired increase in accessibility to the design, nor stimulate the
 market.  
-Making the OSSAT design open source will maximise access and achieve the wider aims of The
+Making the OSSAT design open source will maximise access and achieve the wider aims of the
 Programme.  
 
 ## Introduction to the OBC Development Board
@@ -49,7 +49,7 @@ The design shares several attributes with a sister board that is being developed
 Figure 1 shows a view of the board.
 
 ![image](https://user-images.githubusercontent.com/111048316/216616583-057bedc1-52d7-4567-b377-4d88b519655f.png)   
-Figure 1  View of the Board
+Figure 1:  View of the Board
 <br/>
 <br/>
 ### Features
@@ -59,7 +59,7 @@ Figure 1  View of the Board
 - 2x CAN Bus channels (with local 120R termination), with D-Sub (9 way sockets)
 - 2x UART interface
 - 8x Thermistor interface (10K Negative Temperature Coefficient)
-- 31x General Purpose I/O lines
+- 31x General purpose I/O lines
 - Local 3V3 regulator, operating from USB supply, via Micro-USB connector
 - MCU Reset Button
 - 2x push-buttons for test use
@@ -72,13 +72,13 @@ Figure 1  View of the Board
 Figure 2 below shows a view of the fully assembled board. There are no components on the reverse side.
 
 ![image](https://user-images.githubusercontent.com/111048316/216617689-4c41ee5b-1571-40e6-a27d-4a0dc18d36d7.png)   
-Figure 2  View of Assembled Board
+Figure 2:  View of Assembled Board
 <br/>   
 <br/> 
-The block diagram for the Schematic is shown in Figure 3
+The block diagram for the Schematic is shown in Figure 3.
 
 ![image](https://user-images.githubusercontent.com/111048316/216617843-7995490b-6f9a-41d4-85e5-43f7f01a4bd4.png)   
-Figure 3  Schematic Block Diagram
+Figure 3:  Schematic Block Diagram
 <br/>   
 <br/> 
 #### STM32 Microcontroller (STM32H753ZIT)
@@ -87,7 +87,7 @@ The STM32 MCU includes a broad set of internal features, some of which are highl
 - 2Mbyte onboard Flash
 - 1Mbyte RAM
 - Flexible Memory controller
-- Power Management
+- Power management
 - Watchdog
 - Multiple communication peripherals, including CAN, I2C, SPI, UART
 - ADC
@@ -113,9 +113,9 @@ A list of documents related to this board is provided in the Manual and is liste
 - [KS-SOF-01541 (software)](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board/releases/tag/KS-SOF-01541-01) Software to support h/w test of the OSSAT OBC dev board	(Test Software)
 
 ## OBC Development Board Manual
-Document KS-DOC-01543 is the manual for the board. It covers;
-- Board Features
-- Technical Details
+Document KS-DOC-01543 is the manual for the board. It covers:
+- Board features
+- Technical details
 - Building the board
 - Testing the board
 - Using the board
