@@ -4072,8 +4072,6 @@ commons</text>
 <text x="39.878" y="111.252" size="1.27" layer="97">NC</text>
 <text x="39.878" y="121.412" size="1.27" layer="97">NC</text>
 <text x="59.182" y="121.412" size="1.27" layer="97">NC</text>
-<text x="115.824" y="234.188" size="1.27" layer="97" rot="R180">Note: RX_DATRDY has
-1K source impedance.</text>
 <text x="19.05" y="106.426" size="1.27" layer="97">PIN 11 is
 connect detect.</text>
 <text x="309.88" y="81.28" size="3.81" layer="97" align="bottom-center">GND TP's &amp; Mounting Holes</text>
@@ -7241,7 +7239,7 @@ commons</text>
 </instance>
 </instances>
 <busses>
-<bus name="MRAM:A0,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,A11,A12,A13,A14,A15,A16,A17,A18,A19,A20,A21,A22,A23,A24,/CE0,/CE1,/CE2,/CE3,/CE4,/CE5,/CE6,/CE7,/CE8,/CE9,D0,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,/E1,/LB,/OE,/UB,/WE">
+<bus name="SRAM:A0,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,A11,A12,A13,A14,A15,A16,A17,A18,A19,A20,A21,A22,A23,A24,/CE0,/CE1,/CE2,/CE3,/CE4,/CE5,/CE6,/CE7,/CE8,/CE9,D0,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,/E1,/LB,/OE,/UB,/WE">
 <segment>
 <junction x="289.56" y="236.22"/>
 </segment>
@@ -8494,8 +8492,8 @@ commons</text>
 <text x="243.332" y="224.028" size="5.08" layer="97">SRAM</text>
 <text x="305.308" y="82.296" size="3.81" layer="97" align="bottom-center">Decoupling for SRAM and its Decoding</text>
 <text x="287.02" y="76.2" size="1.27" layer="97">74LVC138</text>
-<text x="309.88" y="76.2" size="1.27" layer="97">MRAM</text>
-<text x="335.28" y="76.2" size="1.27" layer="97">MRAM</text>
+<text x="309.88" y="76.2" size="1.27" layer="97">SRAM</text>
+<text x="335.28" y="76.2" size="1.27" layer="97">SRAM</text>
 <text x="36.322" y="250.698" size="3.81" layer="94">SRAM &amp; Oscillators</text>
 <text x="339.09" y="17.272" size="2.54" layer="94">KS-SCH-01466</text>
 <text x="339.09" y="11.684" size="2.54" layer="94">01</text>
@@ -8821,7 +8819,7 @@ commons</text>
 </instance>
 </instances>
 <busses>
-<bus name="_MRAM:A0,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,A11,A12,A13,A14,A15,A16,A17,A18,A19,A20,A21,A22,A23,A24,/CE0,/CE1,/CE2,/CE3,/CE4,/CE5,/CE6,/CE7,/CE8,/CE9,D0,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,/E1,/LB,N$38,N$39,N$40,N$41,N$43,N$44,N$45,N$46,N$47,N$48,N$49,N$50,N$51,N$52,N$53,/OE,/UB,/WE,/WR">
+<bus name="SRAM:A0,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,A11,A12,A13,A14,A15,A16,A17,A18,A19,A20,A21,A22,A23,A24,/CE0,/CE1,/CE2,/CE3,/CE4,/CE5,/CE6,/CE7,/CE8,/CE9,D0,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,/E1,/LB,/OE,/UB,/WE">
 <segment>
 <junction x="340.36" y="215.9"/>
 </segment>
